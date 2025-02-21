@@ -35,5 +35,5 @@ function displayData(data, url) {
 
     tableHTML += "</tbody></table>";
 
-    document.getElementById("data-container").innerHTML = tableHTML;
+    document.getElementById("table-container").innerHTML = tableHTML;
 }
